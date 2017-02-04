@@ -1,0 +1,246 @@
+{
+  "basics": {
+    "name": "Mark Sargento",
+    "label": "Programmer",
+    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAn2AAAAJGJhMTZjNzUyLTQwMjQtNDdiZi05ZGMyLThmNWM4ZTZhMzMyNw.jpg",
+    "email": "marksargento.00@gmail.com",
+    "phone": "+639175447397",
+    "website": "http://marksargento.com",
+    "summary": "I'm a programmer from Rizal, Philippines. I have almost 6 years of software development experience mostly from software startups. My expertise includes APIs, Backend Services, JavaScript, Ruby on Rails, Elixir, Golang, Linux, MySQL, and PostgreSQL. I always love to explore new things and I'm always hungry to learn and try out new ideas specially when on tech side.",
+    "location": {
+      "address": "Lot 7 Blk 2 4th st. Accessoria Homes, Brgy. San Juan",
+      "postalCode": "1900",
+      "city": "Cainta",
+      "countryCode": "US",
+      "region": "Rizal"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "iammac360",
+        "url": "https://github.com/iammac360"
+      },
+      {
+        "network": "Linkedin",
+        "username": "marksarge",
+        "url": "https://ph.linkedin.com/in/marksarge"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Kinvo",
+      "position": "Software Engineer Team Lead",
+      "website": "http://kinvo.co",
+      "startDate": "2016-03-01",
+      "endDate": "2017-03-01",
+      "summary": "Kinvo is an app that enables merchants to generate invoices through their phones without hassle. Kinvo Matic enables you to take orders through chat from hundreds of customers simultaneously without lifting a finger.",
+      "highlights": [
+        "As the Engineering Lead, It is my responsibility that all the engineers in my team are following the best engineering practices such as TDD/BDD, code reviews, git workflows, pair programming and daily standups.",
+        "Responsible for the design and implementation of Kinvo's backend services.",
+        "Responsible for the implementation of the Facebook Bot Server(Still a guided bot though but we're currently experimenting and implementing an AI bot to cater the customers messages intelligently)",
+        "Oversees the deployment process of each services",
+        "DevOps stuffs(Task automation, Server Provisioning, Continuous Integration and Deployment, Server Maintenance and Optimation, Load Testing etc..)"
+      ]
+    },
+    {
+      "company": "PocketMarket",
+      "position": "Backend Engineer",
+      "website": "http://pocketmarket.com",
+      "startDate": "2014-02-01",
+      "endDate": "2016-02-28",
+      "summary": "We’ve built-in instant messaging in our storefront platform so you can easily answer customer inquiries - small interactions that can translate into a more personal and delightful shopping experience.",
+      "highlights": [
+        "Responsible for the design and implementation of the PocketMarket's backend services(API, Push Notification Service, Background Jobs, and other SOA components etc.) used by the mobile and web clients.",
+        "Oversees the deployment process of each services",
+        "DevOps stuffs(Task automation, server provisioning, Continues Integration and deployment, server maintenance and optimation etc..)"
+      ]
+    },
+    {
+      "company": "Rubrik Labs Inc.",
+      "position": "Software Developer",
+      "website": "http://rubriklabs.com",
+      "startDate": "2013-01-15",
+      "endDate": "2014-01-03",
+      "summary": "",
+      "highlights": [
+        "Full stack engineer responsible for the implementation and maintenance of the company's core products such as Merchant/Rewards platform, Authentication and Authorization API, Wallet API and the Redemption/Widget App. Implemented the API and the web client for the company's external client.",
+        "Manage code by writing automated tests using cucumber, rspec, capybara, selenium and jasmine/mocha. Ensures that all tests pass before deployment/product release using Jenkins CI.",
+        "Setup and configured automated deployment infrastructure on Amazon(EC2, S3, Cloudfront) using Chef and Capistrano."
+      ]
+    },
+    {
+      "company": "Newbooster Asia",
+      "position": "Jr. PHP Developer",
+      "website": "http://netboosterasia.com",
+      "startDate": "2011-10-21",
+      "endDate": "2012-07-01",
+      "summary": "",
+      "highlights": [
+        "Develops microsite and Facebook applications using a custom PHP micro framework based on Zend.",
+        "Develops back office/Admin site for Facebook applications.",
+        "Responsible for the maintenance and updates of the client's website."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Informatics Computer Institute",
+      "area": "Computer Science",
+      "studyType": "Advance Diploma",
+      "startDate": "2008-06-01",
+      "endDate": "2010-05-01"
+    },
+    {
+      "institution": "Polytechnic Univeristy of the Philippines",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2008-06-01",
+      "endDate": "2010-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Ruby",
+        "JavaScript",
+        "Node.js",
+        "Elixir",
+        "Golang",
+        "Python",
+        "Swift",
+        "Bash",
+        "CSS",
+        "SASS",
+        "PHP",
+        "HTML",
+        "Pug/Jade",
+        "HAML",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Frameworks/Libraries/TDD/BDD",
+      "keywords": [
+        "Ruby on Rails",
+        "Phoenix",
+        "Gorilla Toolkit",
+        "Gin",
+        "Go Standard Library",
+        "Sinatra",
+        "Grape",
+        "Express",
+        "Koa",
+        "React",
+        "Redux",
+        "Rspec",
+        "Cucumber",
+        "Jasmine",
+        "Jest",
+        "Mocha",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Server/Infrastructure/Databases",
+      "keywords": [
+        "Amazon Web Services",
+        "Heroku",
+        "Digital Ocean",
+        "Capistrano",
+        "Mina",
+        "Edeliver",
+        "Ansible",
+        "Chef",
+        "Bash",
+        "Nginx",
+        "Apache",
+        "Vagrant",
+        "Docker",
+        "Linux",
+        "Ubuntu",
+        "Debian",
+        "Haproxy",
+        "PostgreSQL",
+        "MySQL",
+        "MariaDB",
+        "CouchDB",
+        "MongoDB",
+        "Redis",
+        "Memcache",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Text Editors/IDEs",
+      "keywords": [
+        "Vim",
+        "XCode",
+        "Android Studio"
+      ]
+    },
+    {
+      "name": "SCM",
+      "keywords": [
+        "Git",
+        "Subversion"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Filipino/Tagalog",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Average"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video Games/Board Games",
+      "keywords": [
+        "Dota",
+        "Playstation 4",
+        "Call of Duty",
+        "The Witcher",
+        "Fallout",
+        "Card Games",
+        "Coup",
+        "Love Letter",
+        "Pandemic",
+        "Avalon"
+      ]
+    },
+    {
+      "name": "Board Games",
+      "keywords": [
+        "Card Games",
+        "Coup",
+        "Love Letter",
+        "Pandemic",
+        "Avalon"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Jazz",
+        "Indie",
+        "Grunge",
+        "Alternative",
+        "Metal",
+        "Beatles"
+      ]
+    },
+    {
+      "name": "Musical Instrument",
+      "keywords": [
+        "Guitar",
+        "Bass Guitar"
+      ]
+    }
+  ]
+}
