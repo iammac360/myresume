@@ -29,14 +29,27 @@
   },
   "work": [
     {
+      "company": "8 Ventures/FirstTree Ventures",
+      "position": "Software Engineer",
+      "website": "http://8.ventures/",
+      "startDate": "2017-09-11",
+      "endDate": "present",
+      "summary": "Financial Technology Solutions for Emerging Markets.",
+      "highlights": [
+        "Responsible for development of Coinzip, an Asset Exchange platform that allows you to trade cryptocurrencies such as Bitcoin, Litecoin, Ethereum and Ripple",
+        "Oversees the deployment process and monitoring of each services such as Application Service(Coinzip), Order Matching service, Push Services, Trade Executor etc.",
+        "DevOps stuffs(Task automation, Server Provisioning, Continuous Integration and Deployment, Server Maintenance and Optimation, Load Testing etc..)"
+      ]
+    },
+    {
       "company": "Kinvo",
       "position": "Software Engineer Team Lead",
       "website": "http://kinvo.co",
       "startDate": "2016-03-01",
-      "endDate": "present",
+      "endDate": "2017-09-01",
       "summary": "Kinvo is an app that enables merchants to generate invoices through their phones without hassle. Kinvo Matic enables you to take orders through chat from hundreds of customers simultaneously without lifting a finger.",
       "highlights": [
-        "As the Engineering Lead, It is my responsibility that all the engineers in my team are following the best engineering practices such as TDD/BDD, code reviews, git workflows, pair programming and daily standups.",
+        "As the Engineering Lead, It is my responsibility that all the engineers in my team are following the best engineering practices such as TDD/BDD, peer/code reviews, git workflows, pair programming and daily standups.",
         "Responsible for the design and implementation of Kinvo's backend services.",
         "Responsible for the implementation of the Facebook Bot Server(Still a guided bot though but we're currently experimenting and implementing an AI bot to cater the customers messages intelligently)",
         "Oversees the deployment process of each services",
